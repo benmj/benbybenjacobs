@@ -1,3 +1,4 @@
+Date: 2012-08-21
 Title: Scripting Permission Changes for Pelican
 Tags: personal, code, bash, geeky
 Author: Ben Jacobs

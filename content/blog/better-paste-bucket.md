@@ -1,3 +1,4 @@
+Date: 2012-10-03
 Title: A Better Bucket
 Tags: code
 Author: Ben Jacobs

@@ -1,3 +1,4 @@
+Date: 2012-09-07
 Title: LapTimer Posted to GitHub
 Tags: code
 Author: Ben Jacobs

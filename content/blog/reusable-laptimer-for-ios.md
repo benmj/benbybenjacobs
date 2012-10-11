@@ -1,3 +1,4 @@
+Date: 2012-09-04
 Title: Reusable Lap Timer for iOS
 Tags: code
 Author: Ben Jacobs
