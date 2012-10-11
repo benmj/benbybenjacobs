@@ -3,18 +3,13 @@ PELICANOPTS=
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=../benmj.github.com/output
+OUTPUTDIR=../benmj.github.com
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
-
-SSH_HOST=benbybenjacobs.com
-SSH_PORT=22
-SSH_USER=benb1161
-SSH_TARGET_DIR=html
 
 DROPBOX_DIR=~/Dropbox/Public/
 
@@ -43,7 +38,7 @@ $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	find $(OUTPUTDIR) -mindepth 1 -delete
+	find . -mindepth 1 -not -path '*/.*/*' -not -name '.*' -delete
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
