@@ -1,7 +1,7 @@
 Title: About
 Author: Ben Jacobs
 
-![Profile Picture](./images/benjacobs.jpg)
+![Profile Picture](../static/images/benjacobs.jpg)
 
 I'm a software developer living and working in sunny Fresno, California. I'm originally from Goshen, Indiana, where I grew up and went to [school](http://www.goshen.edu).
 

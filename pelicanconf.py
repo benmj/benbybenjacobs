@@ -1,26 +1,24 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = "Ben Jacobs"
-SITENAME = "Ben by Ben Jacobs"
-SITEURL = 'http://www.benbybenjacobs.com'
+AUTHOR = u'Ben Jacobs'
+SITENAME = u'Ben by Ben Jacobs'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = u'en'
 
-THEME = 'tuxlite_tbs'
+THEME = 'svbtle'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
-          # ('Jinja2', 'http://jinja.pocoo.org'),
-          )
-          # ('You can modify those links in your config file', '#'),)
+          ('Jinja2', 'http://jinja.pocoo.org'),
+          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/benmjacobs'),
-          ('facebook', 'https://www.facebook.com/benmillerjacobs'),
-          ('stackoverflow', 'http://stackoverflow.com/users/994466/bpmj'))
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10

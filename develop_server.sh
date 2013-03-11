@@ -1,11 +1,11 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ##
 # This section should match your Makefile
 ##
 PELICAN=pelican
 PELICANOPTS=
 
-BASEDIR=$(PWD)
+BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
 OUTPUTDIR=$BASEDIR/output
 CONFFILE=$BASEDIR/pelicanconf.py
@@ -30,7 +30,7 @@ function shut_down(){
   if [[ -f $SRV_PID ]]; then
     PID=$(cat $SRV_PID)
     PROCESS=$(ps -p $PID | tail -n 1 | awk '{print $4}')
-    if [[ $PROCESS == python ]]; then
+    if [[ $PROCESS != "" ]]; then
       echo "Killing SimpleHTTPServer"
       kill $PID
     else
@@ -65,6 +65,7 @@ function start_up(){
   python -m SimpleHTTPServer &
   echo $! > $SRV_PID
   cd $BASEDIR
+  sleep 1 && echo 'Pelican and SimpleHTTPServer processes now running in background.'
 }
 
 ###
