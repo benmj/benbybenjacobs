@@ -15,32 +15,29 @@ Current tech stack:
 ## Experience ##
 
 ### Central Valley Software Solutions, Fresno, CA ###
-August 2011 - present  
-Software Developer  
+Software Developer (August 2011 - present)
 
 - Wrote web portal for customers to access information regarding their properties and agricultural water usage (Joomla, PHP, HTML, Javascript)
 - Expanded a custom mobile app used by field workers in Water Management Districts in fives states and two Canadian Provinces (Objective-C, SQLite)
 - Managed projects in a small, independent software shop
 
 ### Freelance Web Design ###
-June 2012 - present
+(June 2012 - present)
 
 - Created custom templates or modified existing templates to meet customer demands
 - Wrote content for original websites
 - Acquired domain names, managed data backups, set up email services for customers
 
 ### Central California Mennonite Residential Services, Fresno, CA ###
-September 2009 - July 2012   
-Sept 2009 - Jul 2011 Development Assistant, Resident Advocate (Volunteer)
-Jul 2011 - Jul 2012 Executive Assistant   
+Development Assistant and Resident Advocate. *Full-time Volunteer*. (Sept 2009 - Jul 2011)  
+Executive Assistant (Jul 2011 - Jul 2012)  
 
 - Developed social, recreational, and community service programs for adults with developmental disabilities
 - Organized record keeping and and stream-lined process for reporting billable hours to state agency
 - Wrote institutional history by organizing twenty-five years of corporate documents and conducting interviews
 
 ### Goshen College, Goshen, IN ###
-Jan 2008 - Apr 2009   
-Master Carpenter of Theater Department   
+Master Carpenter of Theater Department (Jan 2008 - Apr 2009)
 
 - Transformed conceptual designs into realized set pieces for college plays
 - Supervised student workers during general construction
