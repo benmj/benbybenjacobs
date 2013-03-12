@@ -7,7 +7,7 @@ Author: Ben Jacobs
 
 > —Brian W. Kernighan
 
-This rung very true for me recently when I was trying to upgrade a component I'd written to fit a larger framework and *it was too hard*. (I know. Boo hoo). It would have been easier to understand and re-work had I not tried to be so clever.
+This rang very true for me recently when I was trying to upgrade a component I'd written to fit a larger framework and *it was too hard*. (I know. Boo hoo). It would have been easier to understand and re-work had I not tried to be so clever.
 
 As seen on [Code Like a Pythonista: Idiomatic Python][1]
 

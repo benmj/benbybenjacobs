@@ -1,14 +1,10 @@
 Title: About
 Author: Ben Jacobs
 
-![Profile Picture](../static/images/benjacobs.jpg)
+<img id="about_image" src="../static/images/benjacobs.jpg" alt="Profile Picture">
 
 I'm a software developer living and working in sunny Fresno, California. I'm originally from Goshen, Indiana, where I grew up and went to [school](http://www.goshen.edu).
 
-Shoot me an email: ben miller j at gmail dot com.
+Current [resumé](../pages/resume.html)
 
-Find me Elsewhere:
-
-- [Facebook](https://www.facebook.com/benmillerjacobs)
-- [Twitter](http://twitter.com/benmjacobs)
-- [Stack Overflow](http://stackoverflow.com/users/994466/bpmj)
+Shoot me an email: <a href="mailto:benmillerj@gmail.com">benmillerj@gmail.com</a>

@@ -9,7 +9,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = 'svbtle'
+THEME = 'templates/mnmlist'
+# THEME = 'templates/buildtexts'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
