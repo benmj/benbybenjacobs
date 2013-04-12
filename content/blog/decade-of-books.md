@@ -1,278 +1,310 @@
-Title: A Decade of Books
-Author: Ben Jacobs
-Date: 2013-03-13
+Title: A Decade in Books  
+Author: Ben Jacobs  
+Date: 2013-03-13  
 
-2003-04-04	The Stranger -- Albert Camus
-2003-04-30	Bird by Bird -- Anne Lamott
-2003-05-04	Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
-2003-05-31	The Stand -- Stephen King
-2003-06-09	Heart of Darkness -- Joseph Conrad
-2003-06-10	Culture Jam -- Kalle Lasn
-2003-06-14	The Picture of Dorian Gray -- Oscar Wilde
-2003-06-26	Harry Potter and the Order of the Phoenix -- J.K. Rowling
-2003-07-01	Viking Myths And Legends -- K.E. Sullivan
-2003-07-12	Busman's Honeymoon -- Dorothy L. Sayers
-2003-07-23	A Clockwork Orange -- Anthony Burgess
-2003-08-05	Fast Food Nation -- Eric Schlosser
-2003-08-26	Invisible Monsters -- Chuck Palahniuk
-2003-09-01	The Great Gatsby -- F. Scott Fitzgerald
-2003-09-25	The Hunchback of Notre Dame -- Victor Hugo
-2003-10-12	The Life of Pi -- Yann Martel
-2003-11-01	Uncle Tom's Cabin -- Harriet Beecher Stowe
-2003-12-13	Hiroshima -- John Hersey
-2003-12-20	"Macbeth" -- William Shakespeare
-2003-12-20	Do Androids Dream of Electric Sheep? -- Philip K. Dick
-2003-12-24	Plainsong -- Kent Haruf
-2003-12-29	Narrative on the Life of Fredrick Douglass -- Fredrick Douglass
-2004-02-04	Cold Mountain -- Charles Frazier
-2004-03-07	Alice's Adventures in Wonderland  -- Lewis Carroll
-2004-03-10	Farewell to Manzanar -- Jeanne Wakatsuki Houston
-2004-03-18	Through the Looking Glass -- Lewis Carrol
-2004-04-15	The Plague -- Albert Camus
-2004-05-03	The Autobiography of Malcolm X -- Alex Haley
-2004-05-08	Siddhartha -- Hermann Hesse
-2004-05-31	A Girl Named Zippy -- Haven Kimmel
-2004-06-10	The World According to Garp -- John Irving
-2004-06-15	Metamorphosis -- Franz Kafka
-2004-06-19	American Gods -- Neil Gaiman
-2004-07-08	The Count of Monte Cristo -- Alexandre Dumas
-2004-07-15	Valis -- Philip K. Dick
-2004-07-20	The Da Vinci Code -- Dan Brown
-2004-07-23	I am the Cheese -- Robert Cormier
-2004-08-04	The River Why -- David James Duncan
-2004-08-18	Zodiac -- Neal Stephenson
-2004-08-24	The Divine Invasion -- Philip K Dick
-2004-08-31	"A Midsummer Night's Dream" -- William Shakespeare
-2004-09-18	The Sun Also Rises -- Ernest Hemingway
-2004-10-28	Coraline -- Neil Gaiman
-2004-11-08	A Tale of Two Cities -- Charles Dickens
-2004-12-19	Double Duece -- Robert B. Parker
-2005-01-01	Lord Foul's Bane -- Stephen R Donaldson
-2005-01-02	"Hamlet" -- William Shakespeare
-2005-01-13	Wyrms -- Orson Scott Card
-2005-01-15	Orphans of the Sky -- Robert A. Heinlein
-2005-02-07	The Death of Ivan Illych and Other Stories -- Leo Tolstoy
-2005-02-13	The Fountainhead -- Ayn Rand
-2005-02-23	Lies My Teacher Told Me -- James W Loewen
-2005-02-27	Dragon's Egg -- Robert L Forward
-2005-03-11	Angela's Ashes -- Frank McCourt
-2005-03-24	Guns, Germs, and Steel -- Jared Diamond
-2005-04-02	Blink -- Malcolm Gladwell
-2005-04-05	"A Long Day's Journey Into Night" -- Eugene O'Neill
-2005-04-15	The Time Traveler's Wife -- Audrey Niffenegger
-2005-04-22	Lincoln at Gettysburg: The Words That Remade America -- Garry Wills
-2005-04-26	The Gunslinger -- Stephen King
-2005-05-12	The Affluent Society -- John Kenneth Galbraith
-2005-05-27	Small is Beautiful -- E F Schumacher
-2005-06-07	A Whole New Mind -- Daniel H Pink
-2005-06-07	The Drawing of the Three -- Stephen King
-2005-06-10	On Writing -- Stephen King
-2005-07-23	Harry Potter and the Half-Blood Prince -- J. K. Rowling
-2005-08-03	Thank You for Asking: Conversing with Young Adults about the Future Church -- Sara Wenger Shenk
-2005-08-07	Monk's Hood -- Ellis Peters
-2005-08-12	Bound For Glory -- Woody Guthrie
-2005-08-15	The Moon is a Harsh Mistress -- Robert A Heinlein
-2005-08-16	Understanding the Atonement for the Mission of the Church -- John Driver
-2005-12-12	Light -- M John Harrison
-2005-12-19	The Dive From Clausen's Pier -- Ann Packer
-2005-12-26	Broken for You -- Stephanie Kallos
-2006-03-00	City of Glass -- Paul Auster
-2006-03-13	Frankenstein -- Mary Shelly
-2006-05-00	Arthurian Romances -- Chrétien de Troyes
-2006-05-09	The Morte d'Arthur -- Sir Thomas Malory
-2006-05-12	A Connecticut Yankee in King Arthur's Court -- Mark Twain
-2006-05-19	Eventide -- Kent Haruf
-2006-06-13	What's the Worst that Could Happen -- Donald Westlake
-2006-06-18	Strong Poison -- Dorothy L. Sayers
-2006-07-01	A Savage Place -- Robert B Parker
-2006-07-02	Have His Carcase -- Dorothy L. Sayers
-2006-07-02	One Flew Over the Cuckoo's Nest -- Ken Kesey
-2006-07-07	A Dirty Job -- Christopher Moore
-2006-07-09	Blankets -- Craig Thompson
-2006-07-14	Chronicles Volume I -- Bob Dylan
-2006-07-28	Black Swan Green -- David Mitchell
-2006-07-29	North Country -- Shane White
-2006-07-30	The Plot: The Secret Story of the Protocols of the Elders of Zion -- Will Eisner
-2006-08-04	The World to Come -- Dara Horn
-2006-08-15	Lord Byron's Novel: The Evening Land -- John Crowley
-2006-08-30	Beowulf -- Seamus Heaney
-2006-10-09	The House of Seven Gables -- Nathaniel Hawthorne
-2006-11-02	As I Lay Dying -- William Faulkner
-2006-12-04	The Bluest Eye -- Toni Morrison
-2006-12-09	V for Vendetta -- Alan Moore
-2006-12-12	Hyperion -- Dan Simmons
-2006-12-13	Marvel 1602 -- Neil Gaiman
-2006-12-18	Persiapolis 1 & 2 -- Marjane Satrapi
-2006-12-20	Watchmen -- Alan Moore
-2007-01-02	The Fall of Hyperion -- Dan Simmons
-2007-01-11	Oxherding Tale -- Charles Johnson
-2007-02-03	Ghost World -- Daniel Clowes
-2007-05-28	In Pursuit of the Proper Sinner -- Elizabeth George
-2007-05-31	Hot Water -- P.G. Wodehouse
-2007-07-08	Glittering Images -- Susan Howatch
-2007-07-30	Harry Potter and the Deathly Hallows -- J K Rowling
-2007-08-16	The Brothers K -- David James Duncan
-2007-08-19	The Remains of the Day -- Kazuo Ishiguro
-2007-08-29	Infidel -- Ayaan Hirsi Ali
-2007-09-06	Prisoners: A Story of Friendship and Terror -- Jeffrey Goldberg
-2007-09-06	Stuart Little -- E B White
-2007-09-10	Radical Hope: Ethics in the Face of Cultural Devastation -- Jonathan Lear
-2007-09-13	Raising Abel -- James Alison
-2007-09-27	A Good War is Hard to Find -- David Griffith
-2007-10-06	Nietzsche: A Philosophical Biography -- Rüdiger Safranski
-2007-10-06	The Book of the Dun Cow -- Walter Wangerin Jr.
-2007-10-08	Thus Spoke Zarathustra -- Friedrich Nietzsche
-2007-10-21	Everything is Illuminated -- Jonathan Safran Foer
-2007-10-24	A Heartbreaking Work of Staggering Genius -- Dave Eggers
-2007-10-30	Beloved -- Toni Morrison
-2007-11-03	For Whom the Bell Tolls -- Ernest Hemingway
-2007-11-06	Homage to Catalonia -- George Orwell
-2007-11-19	The Antichrist -- Friedrich Nietzsche
-2007-11-21	Good Will -- Jane Smiley
-2007-11-28	An Interrupted Life -- Etty Hillesum
-2007-12-05	The Brothers Karamazov -- Fyodor Dostoevsky
-2007-12-25	One Hundred Years of Solitude -- Gabriel Garcia Marquez
-2008-01-20	White Teeth -- Zadie Smith
-2008-01-21	Long Way Down -- Nick Hornby
-2008-01-25	Heart of Darkness -- Joseph Conrad
-2008-02-19	Jude the Obscure -- Thomas Hardy
-2008-03-10	MiddleMarch -- George Eliot
-2008-03-15	A Handful of Dust -- Evelyn Waugh
-2008-04-01	To the Lighthouse -- Virginia Woolf
-2008-04-12	Pride and Prejudice -- Jane Austen
-2008-04-12	Sloth -- Gilbert Hernandez
-2008-04-14	The Lucky Ones -- Rachel Cusk
-2008-05-15	Skinny Dip -- Carl Hiaasen
-2008-05-18	Things Fall Apart -- Chinua Achebe
-2008-05-25	The Color Purple -- Alice Walker
-2008-05-30	Plainsong -- Kent Haruf
-2008-06-02	Neverwhere -- Neil Gaiman
-2008-06-10	A Tree Grows in Brooklyn -- Betty Smith
-2008-07-02	The Poisonwood Bible -- Barbara Kingsolver
-2008-07-08	Little Children -- Tom Perrotta
-2008-07-18	The Grapes of Wrath -- John Steinbeck
-2008-08-05	The Deep Range -- Arthur C. Clarke
-2008-08-23	Franny and Zooey -- J D Salinger
-2008-11-25	On Writing -- Stephen King
-2008-11-27	Ordinary Love -- Jane Smiley
-2008-12-08	Children of Men -- P D James
-2008-12-11	"The Reincarnation of Jaime Brown" -- Lynne Alvarez
-2008-12-21	"the dreamer examines his pillow" -- John Patrick Shanely
-2008-12-21	"Welcome to the Moon and Other Plays" -- John Patrick Shanely
-2008-12-21	Endymion -- Dan Simmons
-2009-01-25	The Rise of Endymion -- Dan Simmons
-2009-02-09	What is the What -- Dave Eggers
-2009-02-15	"Kid-simple: A Radio Play in the Flesh" -- Jordan Harrison
-2009-02-15	Save the World on Your Own Time -- Stanley Fish
-2009-03-01	"Fires in the Mirrow: Crown Heights Brooklyn and Other Identities" -- Anna Deavere Smith
-2009-03-01	"The Laramie Project" -- Moisés Kaufman
-2009-03-11	Dracula -- Bram Stoker
-2009-03-27	River Teeth -- David James Duncan
-2009-03-31	Our Man in Havana -- Graham Greene
-2009-04-20	The Bean Trees -- Barbara Kingsolver
-2009-05-02	The Graveyard Book -- Neil Gaiman
-2009-05-27	The Power and the Glory -- Graham Greene
-2009-05-30	Stardust -- Neil Gaiman
-2009-06-02	Losing Mum and Pup -- Christopher Buckley
-2009-06-03	Fear and Loathing in Las Vegas and Other American Stories -- Hunter S Thompson
-2009-06-08	The Road -- Cormac McCarthy
-2009-06-18	The Left Hand of Darkness -- Ursula K Le Guin
-2009-06-24	The Phantom Tollbooth -- Norton Juster
-2009-07-01	'Tis -- Frank McCourt
-2009-07-03	Grendel -- John Gardner
-2009-07-13	The Unlikely Disciple -- Kevin Roose
-2009-07-19	Good Faith -- Jane Smiley
-2009-07-20	The Time Machine -- H G Wells
-2009-07-28	All the Pretty Horses -- Cormac McCarthy
-2009-09-25	Snow Falling on Cedars -- David Guterson
-2009-09-29	Anna Karenina -- Leo Tolstoy
-2009-10-06	Adam: God's Beloved -- Henri Nouwen
-2009-10-11	A Thousand Acres -- Jane Smiley
-2009-10-14	A Madman Dreams of Turing Machines -- Janna Levin
-2009-10-26	The Girl Who Played with Fire (Millennium, #2) -- Stieg Larsson
-2009-11-11	Wise Blood -- Flannery O'Connor
-2009-11-20	Appaloosa -- Robert B Parker
-2009-12-03	Evil in Modern Thought -- Susan Neiman
-2009-12-06	The Horse and His Boy (Chronicles of Narnia, #3) -- C.S. Lewis
-2009-12-11	Her Fearful Symmetry  -- Audrey Niffenegger
-2009-12-20	Invisible -- Paul Auster
-2010-01-01	Mennonite in a Little Black Dress -- Rhoda Janzen
-2010-01-18	The Noonday Demon: An Atlas of Depression -- Andrew Solomon
-2010-02-06	Hell's Angels -- Hunter S. Thompson
-2010-02-13	Man and His Symbols -- C.G. Jung
-2010-03-02	The Jungle Book -- Rudyard Kipling
-2010-03-10	Stinker from Space -- Pamela F Service
-2010-03-25	Eichmann in Jerusalem: A Report on the Banality of Evil -- Hannah Arendt
-2010-04-21	The White Tiger -- Aravind Adiga
-2010-04-23	The Strange Case of Dr. Jekyll and Mr. Hyde -- Robert Louis Stevenson
-2010-04-29	Owning Your Shadow -- Robert A Johnson
-2010-05-01	The Girl with the Dragon Tattoo (Millennium, #1) -- Stieg Larsson
-2010-05-26	The Awakening -- Kate Chopin
-2010-06-12	California: a History -- Kevin Starr
-2010-06-19	The Courage to Teacher -- Parker Palmer
-2010-06-23	The Sea Wolf -- Jack London
-2010-06-29	A Princess of Mars -- Edgar Rice Burroughs
-2010-07-13	The Adventures of Huckleberry Finn -- Mark Twain
-2010-07-30	Was Huck Black? -- Shelley Fisher Fishkin
-2010-09-20	The Girl Who Kicked the Hornet's Nest (Millennium, #3) -- Stieg Larsson
-2010-10-10	Stiff: The Curious Lives of Human Cadavers -- Mary Roach
-2010-10-15	Inner Work -- Robert A Johnson
-2010-10-25	The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures -- Anne Fadiman
-2010-10-31	Moby Dick -- Herman Melville
-2010-12-02	Mountains Beyond Mountains -- Tracy Kidder
-2010-12-10	Talk Talk -- T.C. Boyle
-2010-12-19	The Adventures of Sherlock Holmes -- Sir Arthur Conan Doyle
-2010-12-29	The Maltese Falcon -- Dashiell Hammett
-2011-01-08	Mrs. Kimble -- Jennifer Haigh
-2011-01-24	The Princess Bride -- William Goldman
-2011-01-27	The Hunger Games -- Suzanne Collins
-2011-01-31	Catching Fire -- Suzanne Collins
-2011-02-05	Interpreting Fairy Tales -- Marie Louise Van Franz
-2011-02-10	Mockingjay -- Suzanne Collins
-2011-02-42	How to Write a Sentence and How to Read One -- Stanely Fish
-2011-03-05	The Elegance of the Hedgehog -- Muriel Barbery
-2011-03-09	Ender's Game -- Orson Scott Card
-2011-03-13	Happy All the Time -- Laurie Colwin
-2011-04-00	Wisdom Jesus -- Cynthia Bourgeault
-2011-04-07	Bossy Pants -- Tina Fey
-2011-04-30	West of the West -- Mark Arax
-2011-05-16	He -- Robert A Johnson
-2011-06-05	Unbroken -- Laura Hillenbrand
-2011-06-19	Moonwalking with Einstein -- Joshua Foer
-2011-06-25	Keep it Real -- Bill Bryan
-2011-07-26	Tipping Point -- Malcolm Gladwell
-2011-07-30	Running Blind -- Lee Child
-2011-08-03	Outliers -- Malcolm Gladwell
-2011-08-04	My Mother She Killed Me, My Father He Ate Me
-2011-08-18	Presumed Innocent -- Scott Turow
-2011-09-21	Let the Great World Spin -- Colum McCann
-2011-10-08	A Prayer for Owen Meany -- John Irving
-2011-10-12	The Killing Floor -- Lee Child
-2011-10-28	The Crocodile on the Sandbank -- Elizabeth Peters
-2011-11-11	The Curse of the Pharoahs -- Elizabeth Peters
-2011-11-21	A Game of Thrones -- George R R Martin
-2011-11-30	She -- Robert Johnson
-2011-12-18	A Clash of Kings -- George R R Martin
-2012-01-08	The New Kings of Non-Fiction
-2012-02-00	A Storm of Swords -- George R R Martin
-2012-03-30	Sense and Sensibility -- Jane Austen
-2012-04-14	Tinker, Tailor, Soldier, Spy (George Smiley, #5) -- John le Carré
-2012-04-17	O Pioneers! -- Willa Cather
-2012-04-25	The Loved One -- Evelyn Waugh
-2012-05-31	A Moment of War -- Laurie Lee
-2012-06-16	Through the Language Glass: Why the World Looks Different in Other Languages -- Guy Deutscher
-2012-06-27	Goodbye Without Leaving -- Laurie Colwin
-2012-07-04	A Wind in the Door -- Madeleine L'Engle
-2012-07-11	Travels with Charlie -- John Steinbeck
-2012-07-23	Me Talk Pretty One Day -- David Sedaris
-2012-08-06	The Unpleasantness at the Bellona Club -- Dorothy Sayers
-2012-09-18	The Amazing Adventures of Kavalier and Clay -- Michael Chabon
-2012-11-07	The Possessed: Adventures with Russian Books and the People Who Read Them -- Elif Batuman
-2012-11-11	Crime and Punishment -- Fyodor Dostoevsky
-2012-11-15	Shopgirl -- Steve Martin
-2012-11-24	The Yiddish Policemen's Union -- Michael Chabon
-2012-12-15	Swamplandia -- Karen Russell
-2013-01-10	The Savage Detectives -- Roberto Bolaño
-2013-01-17	Ghostwritten -- David Mitchell
-2013-01-29	Magic for Beginners -- Kelly Link
-2013-02-18	East of Eden -- John Steinbeck
+### 2013 ###
+
+- <span class="date">2013-02-18</span> <span class="book_title">East of Eden</span> <span class="author_name">John Steinbeck</span>
+- <span class="date">2013-01-29</span> <span class="book_title">Magic for Beginners</span> <span class="author_name">Kelly Link</span>
+- <span class="date">2013-01-17</span> <span class="book_title">Ghostwritten</span> <span class="author_name">David Mitchell</span>
+- <span class="date">2013-01-10</span> <span class="book_title">The Savage Detectives</span> <span class="author_name">Roberto Bolaño</span>
+
+### 2012 ###
+
+- <span class="date">2012-12-15</span> <span class="book_title">Swamplandia</span> <span class="author_name">Karen Russell</span>
+- 2012-11-24	The Yiddish Policemen's Union -- Michael Chabon
+- <span class="date">2012-11-15</span> <span class="book_title">Shopgirl</span> <span class="author_name">Steve Martin</span>
+- <span class="date">2012-11-11</span> <span class="book_title">Crime and Punishment</span> <span class="author_name">Fyodor Dostoevsky</span>
+- 2012-11-07	The Possessed: Adventures with Russian Books and the People Who Read Them -- Elif Batuman
+- <span class="date">2012-09-18</span> <span class="book_title">The Amazing Adventures of Kavalier and Clay</span> <span class="author_name">Michael Chabon</span>
+- <span class="date">2012-08-06</span> <span class="book_title">The Unpleasantness at the Bellona Club</span> <span class="author_name">Dorothy Sayers</span>
+- <span class="date">2012-07-23</span> <span class="book_title">Me Talk Pretty One Day</span> <span class="author_name">David Sedaris</span>
+- <span class="date">2012-07-11</span> <span class="book_title">Travels with Charlie</span> <span class="author_name">John Steinbeck</span>
+- <span class="date">2012-07-04</span> <span class="book_title">A Wind in the Door</span> <span class="author_name">Madeleine L'Engle</span>
+- <span class="date">2012-06-27</span> <span class="book_title">Goodbye Without Leaving</span> <span class="author_name">Laurie Colwin</span>
+- 2012-06-16	Through the Language Glass: Why the World Looks Different in Other Languages -- Guy Deutscher
+- <span class="date">2012-05-31</span> <span class="book_title">A Moment of War</span> <span class="author_name">Laurie Lee</span>
+- <span class="date">2012-04-25</span> <span class="book_title">The Loved One</span> <span class="author_name">Evelyn Waugh</span>
+- 2012-04-17	O Pioneers! -- Willa Cather
+- 2012-04-14	Tinker, Tailor, Soldier, Spy (George Smiley, #5) -- John le Carré
+- <span class="date">2012-03-30</span> <span class="book_title">Sense and Sensibility</span> <span class="author_name">Jane Austen</span>
+- <span class="date">2012-02-00</span> <span class="book_title">A Storm of Swords</span> <span class="author_name">George R R Martin</span>
+- 2012-01-08	The New Kings of Non-Fiction
+
+### 2011 ###
+
+- <span class="date">2011-12-18</span> <span class="book_title">A Clash of Kings</span> <span class="author_name">George R R Martin</span>
+- <span class="date">2011-11-30</span> <span class="book_title">She</span> <span class="author_name">Robert Johnson</span>
+- <span class="date">2011-11-21</span> <span class="book_title">A Game of Thrones</span> <span class="author_name">George R R Martin</span>
+- <span class="date">2011-11-11</span> <span class="book_title">The Curse of the Pharoahs</span> <span class="author_name">Elizabeth Peters</span>
+- <span class="date">2011-10-28</span> <span class="book_title">The Crocodile on the Sandbank</span> <span class="author_name">Elizabeth Peters</span>
+- <span class="date">2011-10-12</span> <span class="book_title">The Killing Floor</span> <span class="author_name">Lee Child</span>
+- <span class="date">2011-10-08</span> <span class="book_title">A Prayer for Owen Meany</span> <span class="author_name">John Irving</span>
+- <span class="date">2011-09-21</span> <span class="book_title">Let the Great World Spin</span> <span class="author_name">Colum McCann</span>
+- <span class="date">2011-08-18</span> <span class="book_title">Presumed Innocent</span> <span class="author_name">Scott Turow</span>
+- 2011-08-04	My Mother She Killed Me, My Father He Ate Me
+- <span class="date">2011-08-03</span> <span class="book_title">Outliers</span> <span class="author_name">Malcolm Gladwell</span>
+- <span class="date">2011-07-30</span> <span class="book_title">Running Blind</span> <span class="author_name">Lee Child</span>
+- <span class="date">2011-07-26</span> <span class="book_title">Tipping Point</span> <span class="author_name">Malcolm Gladwell</span>
+- <span class="date">2011-06-25</span> <span class="book_title">Keep it Real</span> <span class="author_name">Bill Bryan</span>
+- <span class="date">2011-06-19</span> <span class="book_title">Moonwalking with Einstein</span> <span class="author_name">Joshua Foer</span>
+- <span class="date">2011-06-05</span> <span class="book_title">Unbroken</span> <span class="author_name">Laura Hillenbrand</span>
+- <span class="date">2011-05-16</span> <span class="book_title">He</span> <span class="author_name">Robert A Johnson</span>
+- <span class="date">2011-04-30</span> <span class="book_title">West of the West</span> <span class="author_name">Mark Arax</span>
+- <span class="date">2011-04-07</span> <span class="book_title">Bossy Pants</span> <span class="author_name">Tina Fey</span>
+- <span class="date">2011-04-00</span> <span class="book_title">Wisdom Jesus</span> <span class="author_name">Cynthia Bourgeault</span>
+- <span class="date">2011-03-13</span> <span class="book_title">Happy All the Time</span> <span class="author_name">Laurie Colwin</span>
+- 2011-03-09	Ender's Game -- Orson Scott Card
+- <span class="date">2011-03-05</span> <span class="book_title">The Elegance of the Hedgehog</span> <span class="author_name">Muriel Barbery</span>
+- <span class="date">2011-02-42</span> <span class="book_title">How to Write a Sentence and How to Read One</span> <span class="author_name">Stanely Fish</span>
+- <span class="date">2011-02-10</span> <span class="book_title">Mockingjay</span> <span class="author_name">Suzanne Collins</span>
+- <span class="date">2011-02-05</span> <span class="book_title">Interpreting Fairy Tales</span> <span class="author_name">Marie Louise Van Franz</span>
+- <span class="date">2011-01-31</span> <span class="book_title">Catching Fire</span> <span class="author_name">Suzanne Collins</span>
+- <span class="date">2011-01-27</span> <span class="book_title">The Hunger Games</span> <span class="author_name">Suzanne Collins</span>
+- <span class="date">2011-01-24</span> <span class="book_title">The Princess Bride</span> <span class="author_name">William Goldman</span>
+- 2011-01-08	Mrs. Kimble -- Jennifer Haigh
+
+### 2010 ###
+
+- <span class="date">2010-12-29</span> <span class="book_title">The Maltese Falcon</span> <span class="author_name">Dashiell Hammett</span>
+- <span class="date">2010-12-19</span> <span class="book_title">The Adventures of Sherlock Holmes</span> <span class="author_name">Sir Arthur Conan Doyle</span>
+- <span class="date">2010-12-10</span> <span class="book_title">Talk Talk</span> <span class="author_name">T.C. Boyle</span>
+- <span class="date">2010-12-02</span> <span class="book_title">Mountains Beyond Mountains</span> <span class="author_name">Tracy Kidder</span>
+- <span class="date">2010-10-31</span> <span class="book_title">Moby Dick</span> <span class="author_name">Herman Melville</span>
+- 2010-10-25	The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures -- Anne Fadiman
+- <span class="date">2010-10-15</span> <span class="book_title">Inner Work</span> <span class="author_name">Robert A Johnson</span>
+- 2010-10-10	Stiff: The Curious Lives of Human Cadavers -- Mary Roach
+- 2010-09-20	The Girl Who Kicked the Hornet's Nest (Millennium, #3) -- Stieg Larsson
+- 2010-07-30	Was Huck Black? -- Shelley Fisher Fishkin
+- <span class="date">2010-07-13</span> <span class="book_title">The Adventures of Huckleberry Finn</span> <span class="author_name">Mark Twain</span>
+- <span class="date">2010-06-29</span> <span class="book_title">A Princess of Mars</span> <span class="author_name">Edgar Rice Burroughs</span>
+- <span class="date">2010-06-23</span> <span class="book_title">The Sea Wolf</span> <span class="author_name">Jack London</span>
+- <span class="date">2010-06-19</span> <span class="book_title">The Courage to Teacher</span> <span class="author_name">Parker Palmer</span>
+- 2010-06-12	California: a History -- Kevin Starr
+- <span class="date">2010-05-26</span> <span class="book_title">The Awakening</span> <span class="author_name">Kate Chopin</span>
+- 2010-05-01	The Girl with the Dragon Tattoo (Millennium, #1) -- Stieg Larsson
+- <span class="date">2010-04-29</span> <span class="book_title">Owning Your Shadow</span> <span class="author_name">Robert A Johnson</span>
+- 2010-04-23	The Strange Case of Dr. Jekyll and Mr. Hyde -- Robert Louis Stevenson
+- <span class="date">2010-04-21</span> <span class="book_title">The White Tiger</span> <span class="author_name">Aravind Adiga</span>
+- 2010-03-25	Eichmann in Jerusalem: A Report on the Banality of Evil -- Hannah Arendt
+- <span class="date">2010-03-10</span> <span class="book_title">Stinker from Space</span> <span class="author_name">Pamela F Service</span>
+- <span class="date">2010-03-02</span> <span class="book_title">The Jungle Book</span> <span class="author_name">Rudyard Kipling</span>
+- <span class="date">2010-02-13</span> <span class="book_title">Man and His Symbols</span> <span class="author_name">C.G. Jung</span>
+- 2010-02-06	Hell's Angels -- Hunter S. Thompson
+- 2010-01-18	The Noonday Demon: An Atlas of Depression -- Andrew Solomon
+- <span class="date">2010-01-01</span> <span class="book_title">Mennonite in a Little Black Dress</span> <span class="author_name">Rhoda Janzen</span>
+
+### 2009 ###
+
+- <span class="date">2009-12-20</span> <span class="book_title">Invisible</span> <span class="author_name">Paul Auster</span>
+- <span class="date">2009-12-11</span> <span class="book_title">Her Fearful Symmetry </span> <span class="author_name">Audrey Niffenegger</span>
+- 2009-12-06	The Horse and His Boy (Chronicles of Narnia, #3) -- C.S. Lewis
+- <span class="date">2009-12-03</span> <span class="book_title">Evil in Modern Thought</span> <span class="author_name">Susan Neiman</span>
+- <span class="date">2009-11-20</span> <span class="book_title">Appaloosa</span> <span class="author_name">Robert B Parker</span>
+- <span class="date">2009-11-11</span> <span class="book_title">Wise Blood</span> <span class="author_name">Flannery O'Connor</span>
+- 2009-10-26	The Girl Who Played with Fire (Millennium, #2) -- Stieg Larsson
+- <span class="date">2009-10-14</span> <span class="book_title">A Madman Dreams of Turing Machines</span> <span class="author_name">Janna Levin</span>
+- <span class="date">2009-10-11</span> <span class="book_title">A Thousand Acres</span> <span class="author_name">Jane Smiley</span>
+- 2009-10-06	Adam: God's Beloved -- Henri Nouwen
+- <span class="date">2009-09-29</span> <span class="book_title">Anna Karenina</span> <span class="author_name">Leo Tolstoy</span>
+- <span class="date">2009-09-25</span> <span class="book_title">Snow Falling on Cedars</span> <span class="author_name">David Guterson</span>
+- <span class="date">2009-07-28</span> <span class="book_title">All the Pretty Horses</span> <span class="author_name">Cormac McCarthy</span>
+- <span class="date">2009-07-20</span> <span class="book_title">The Time Machine</span> <span class="author_name">H G Wells</span>
+- <span class="date">2009-07-19</span> <span class="book_title">Good Faith</span> <span class="author_name">Jane Smiley</span>
+- <span class="date">2009-07-13</span> <span class="book_title">The Unlikely Disciple</span> <span class="author_name">Kevin Roose</span>
+- <span class="date">2009-07-03</span> <span class="book_title">Grendel</span> <span class="author_name">John Gardner</span>
+- 2009-07-01	'Tis -- Frank McCourt
+- <span class="date">2009-06-24</span> <span class="book_title">The Phantom Tollbooth</span> <span class="author_name">Norton Juster</span>
+- <span class="date">2009-06-18</span> <span class="book_title">The Left Hand of Darkness</span> <span class="author_name">Ursula K Le Guin</span>
+- <span class="date">2009-06-08</span> <span class="book_title">The Road</span> <span class="author_name">Cormac McCarthy</span>
+- <span class="date">2009-06-03</span> <span class="book_title">Fear and Loathing in Las Vegas and Other American Stories</span> <span class="author_name">Hunter S Thompson</span>
+- <span class="date">2009-06-02</span> <span class="book_title">Losing Mum and Pup</span> <span class="author_name">Christopher Buckley</span>
+- <span class="date">2009-05-30</span> <span class="book_title">Stardust</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2009-05-27</span> <span class="book_title">The Power and the Glory</span> <span class="author_name">Graham Greene</span>
+- <span class="date">2009-05-02</span> <span class="book_title">The Graveyard Book</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2009-04-20</span> <span class="book_title">The Bean Trees</span> <span class="author_name">Barbara Kingsolver</span>
+- <span class="date">2009-03-31</span> <span class="book_title">Our Man in Havana</span> <span class="author_name">Graham Greene</span>
+- <span class="date">2009-03-27</span> <span class="book_title">River Teeth</span> <span class="author_name">David James Duncan</span>
+- <span class="date">2009-03-11</span> <span class="book_title">Dracula</span> <span class="author_name">Bram Stoker</span>
+- 2009-03-01	"The Laramie Project" -- Moisés Kaufman
+- 2009-03-01	"Fires in the Mirrow: Crown Heights Brooklyn and Other Identities" -- Anna Deavere Smith
+- <span class="date">2009-02-15</span> <span class="book_title">Save the World on Your Own Time</span> <span class="author_name">Stanley Fish</span>
+- 2009-02-15	"Kid-simple: A Radio Play in the Flesh" -- Jordan Harrison
+- <span class="date">2009-02-09</span> <span class="book_title">What is the What</span> <span class="author_name">Dave Eggers</span>
+- <span class="date">2009-01-25</span> <span class="book_title">The Rise of Endymion</span> <span class="author_name">Dan Simmons</span>
+
+### 2008 ###
+
+- 2008-12-21	"Welcome to the Moon and Other Plays" -- John Patrick Shanely
+- 2008-12-21	"the dreamer examines his pillow" -- John Patrick Shanely
+- <span class="date">2008-12-21</span> <span class="book_title">Endymion</span> <span class="author_name">Dan Simmons</span>
+- 2008-12-11	"The Reincarnation of Jaime Brown" -- Lynne Alvarez
+- <span class="date">2008-12-08</span> <span class="book_title">Children of Men</span> <span class="author_name">P D James</span>
+- <span class="date">2008-11-27</span> <span class="book_title">Ordinary Love</span> <span class="author_name">Jane Smiley</span>
+- <span class="date">2008-11-25</span> <span class="book_title">On Writing</span> <span class="author_name">Stephen King</span>
+- <span class="date">2008-08-23</span> <span class="book_title">Franny and Zooey</span> <span class="author_name">J D Salinger</span>
+- <span class="date">2008-08-05</span> <span class="book_title">The Deep Range</span> <span class="author_name">Arthur C. Clarke</span>
+- <span class="date">2008-07-18</span> <span class="book_title">The Grapes of Wrath</span> <span class="author_name">John Steinbeck</span>
+- <span class="date">2008-07-08</span> <span class="book_title">Little Children</span> <span class="author_name">Tom Perrotta</span>
+- <span class="date">2008-07-02</span> <span class="book_title">The Poisonwood Bible</span> <span class="author_name">Barbara Kingsolver</span>
+- <span class="date">2008-06-10</span> <span class="book_title">A Tree Grows in Brooklyn</span> <span class="author_name">Betty Smith</span>
+- <span class="date">2008-06-02</span> <span class="book_title">Neverwhere</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2008-05-30</span> <span class="book_title">Plainsong</span> <span class="author_name">Kent Haruf</span>
+- <span class="date">2008-05-25</span> <span class="book_title">The Color Purple</span> <span class="author_name">Alice Walker</span>
+- <span class="date">2008-05-18</span> <span class="book_title">Things Fall Apart</span> <span class="author_name">Chinua Achebe</span>
+- <span class="date">2008-05-15</span> <span class="book_title">Skinny Dip</span> <span class="author_name">Carl Hiaasen</span>
+- <span class="date">2008-04-14</span> <span class="book_title">The Lucky Ones</span> <span class="author_name">Rachel Cusk</span>
+- <span class="date">2008-04-12</span> <span class="book_title">Sloth</span> <span class="author_name">Gilbert Hernandez</span>
+- <span class="date">2008-04-12</span> <span class="book_title">Pride and Prejudice</span> <span class="author_name">Jane Austen</span>
+- <span class="date">2008-04-01</span> <span class="book_title">To the Lighthouse</span> <span class="author_name">Virginia Woolf</span>
+- <span class="date">2008-03-15</span> <span class="book_title">A Handful of Dust</span> <span class="author_name">Evelyn Waugh</span>
+- <span class="date">2008-03-10</span> <span class="book_title">MiddleMarch</span> <span class="author_name">George Eliot</span>
+- <span class="date">2008-02-19</span> <span class="book_title">Jude the Obscure</span> <span class="author_name">Thomas Hardy</span>
+- <span class="date">2008-01-25</span> <span class="book_title">Heart of Darkness</span> <span class="author_name">Joseph Conrad</span>
+- <span class="date">2008-01-21</span> <span class="book_title">Long Way Down</span> <span class="author_name">Nick Hornby</span>
+- <span class="date">2008-01-20</span> <span class="book_title">White Teeth</span> <span class="author_name">Zadie Smith</span>
+
+### 2007 ###
+
+- <span class="date">2007-12-25</span> <span class="book_title">One Hundred Years of Solitude</span> <span class="author_name">Gabriel Garcia Marquez</span>
+- <span class="date">2007-12-05</span> <span class="book_title">The Brothers Karamazov</span> <span class="author_name">Fyodor Dostoevsky</span>
+- <span class="date">2007-11-28</span> <span class="book_title">An Interrupted Life</span> <span class="author_name">Etty Hillesum</span>
+- <span class="date">2007-11-21</span> <span class="book_title">Good Will</span> <span class="author_name">Jane Smiley</span>
+- <span class="date">2007-11-19</span> <span class="book_title">The Antichrist</span> <span class="author_name">Friedrich Nietzsche</span>
+- <span class="date">2007-11-06</span> <span class="book_title">Homage to Catalonia</span> <span class="author_name">George Orwell</span>
+- <span class="date">2007-11-03</span> <span class="book_title">For Whom the Bell Tolls</span> <span class="author_name">Ernest Hemingway</span>
+- <span class="date">2007-10-30</span> <span class="book_title">Beloved</span> <span class="author_name">Toni Morrison</span>
+- <span class="date">2007-10-24</span> <span class="book_title">A Heartbreaking Work of Staggering Genius</span> <span class="author_name">Dave Eggers</span>
+- <span class="date">2007-10-21</span> <span class="book_title">Everything is Illuminated</span> <span class="author_name">Jonathan Safran Foer</span>
+- <span class="date">2007-10-08</span> <span class="book_title">Thus Spoke Zarathustra</span> <span class="author_name">Friedrich Nietzsche</span>
+- <span class="date">2007-10-06</span> <span class="book_title">The Book of the Dun Cow</span> <span class="author_name">Walter Wangerin Jr.</span>
+- 2007-10-06	Nietzsche: A Philosophical Biography -- Rüdiger Safranski
+- <span class="date">2007-09-27</span> <span class="book_title">A Good War is Hard to Find</span> <span class="author_name">David Griffith</span>
+- <span class="date">2007-09-13</span> <span class="book_title">Raising Abel</span> <span class="author_name">James Alison</span>
+- 2007-09-10	Radical Hope: Ethics in the Face of Cultural Devastation -- Jonathan Lear
+- <span class="date">2007-09-06</span> <span class="book_title">Stuart Little</span> <span class="author_name">E B White</span>
+- 2007-09-06	Prisoners: A Story of Friendship and Terror -- Jeffrey Goldberg
+- <span class="date">2007-08-29</span> <span class="book_title">Infidel</span> <span class="author_name">Ayaan Hirsi Ali</span>
+- <span class="date">2007-08-19</span> <span class="book_title">The Remains of the Day</span> <span class="author_name">Kazuo Ishiguro</span>
+- <span class="date">2007-08-16</span> <span class="book_title">The Brothers K</span> <span class="author_name">David James Duncan</span>
+- <span class="date">2007-07-30</span> <span class="book_title">Harry Potter and the Deathly Hallows</span> <span class="author_name">J K Rowling</span>
+- <span class="date">2007-07-08</span> <span class="book_title">Glittering Images</span> <span class="author_name">Susan Howatch</span>
+- <span class="date">2007-05-31</span> <span class="book_title">Hot Water</span> <span class="author_name">P.G. Wodehouse</span>
+- <span class="date">2007-05-28</span> <span class="book_title">In Pursuit of the Proper Sinner</span> <span class="author_name">Elizabeth George</span>
+- <span class="date">2007-02-03</span> <span class="book_title">Ghost World</span> <span class="author_name">Daniel Clowes</span>
+- <span class="date">2007-01-11</span> <span class="book_title">Oxherding Tale</span> <span class="author_name">Charles Johnson</span>
+- <span class="date">2007-01-02</span> <span class="book_title">The Fall of Hyperion</span> <span class="author_name">Dan Simmons</span>
+
+### 2006 ###
+
+- <span class="date">2006-12-20</span> <span class="book_title">Watchmen</span> <span class="author_name">Alan Moore</span>
+- 2006-12-18	Persiapolis 1 & 2 -- Marjane Satrapi
+- <span class="date">2006-12-13</span> <span class="book_title">Marvel 1602</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2006-12-12</span> <span class="book_title">Hyperion</span> <span class="author_name">Dan Simmons</span>
+- <span class="date">2006-12-09</span> <span class="book_title">V for Vendetta</span> <span class="author_name">Alan Moore</span>
+- <span class="date">2006-12-04</span> <span class="book_title">The Bluest Eye</span> <span class="author_name">Toni Morrison</span>
+- <span class="date">2006-11-02</span> <span class="book_title">As I Lay Dying</span> <span class="author_name">William Faulkner</span>
+- <span class="date">2006-10-09</span> <span class="book_title">The House of Seven Gables</span> <span class="author_name">Nathaniel Hawthorne</span>
+- <span class="date">2006-08-30</span> <span class="book_title">Beowulf</span> <span class="author_name">Seamus Heaney</span>
+- 2006-08-15	Lord Byron's Novel: The Evening Land -- John Crowley
+- <span class="date">2006-08-04</span> <span class="book_title">The World to Come</span> <span class="author_name">Dara Horn</span>
+- 2006-07-30	The Plot: The Secret Story of the Protocols of the Elders of Zion -- Will Eisner
+- <span class="date">2006-07-29</span> <span class="book_title">North Country</span> <span class="author_name">Shane White</span>
+- <span class="date">2006-07-28</span> <span class="book_title">Black Swan Green</span> <span class="author_name">David Mitchell</span>
+- <span class="date">2006-07-14</span> <span class="book_title">Chronicles Volume I</span> <span class="author_name">Bob Dylan</span>
+- <span class="date">2006-07-09</span> <span class="book_title">Blankets</span> <span class="author_name">Craig Thompson</span>
+- <span class="date">2006-07-07</span> <span class="book_title">A Dirty Job</span> <span class="author_name">Christopher Moore</span>
+- 2006-07-02	One Flew Over the Cuckoo's Nest -- Ken Kesey
+- <span class="date">2006-07-02</span> <span class="book_title">Have His Carcase</span> <span class="author_name">Dorothy L. Sayers</span>
+- <span class="date">2006-07-01</span> <span class="book_title">A Savage Place</span> <span class="author_name">Robert B Parker</span>
+- <span class="date">2006-06-18</span> <span class="book_title">Strong Poison</span> <span class="author_name">Dorothy L. Sayers</span>
+- 2006-06-13	What's the Worst that Could Happen -- Donald Westlake
+- <span class="date">2006-05-19</span> <span class="book_title">Eventide</span> <span class="author_name">Kent Haruf</span>
+- 2006-05-12	A Connecticut Yankee in King Arthur's Court -- Mark Twain
+- 2006-05-09	The Morte d'Arthur -- Sir Thomas Malory
+- <span class="date">2006-05-00</span> <span class="book_title">Arthurian Romances</span> <span class="author_name">Chrétien de Troyes</span>
+- <span class="date">2006-03-13</span> <span class="book_title">Frankenstein</span> <span class="author_name">Mary Shelly</span>
+- <span class="date">2006-03-00</span> <span class="book_title">City of Glass</span> <span class="author_name">Paul Auster</span>
+
+### 2005 ###
+
+- <span class="date">2005-12-26</span> <span class="book_title">Broken for You</span> <span class="author_name">Stephanie Kallos</span>
+- 2005-12-19	The Dive From Clausen's Pier -- Ann Packer
+- <span class="date">2005-12-12</span> <span class="book_title">Light</span> <span class="author_name">M John Harrison</span>
+- <span class="date">2005-08-16</span> <span class="book_title">Understanding the Atonement for the Mission of the Church</span> <span class="author_name">John Driver</span>
+- <span class="date">2005-08-15</span> <span class="book_title">The Moon is a Harsh Mistress</span> <span class="author_name">Robert A Heinlein</span>
+- <span class="date">2005-08-12</span> <span class="book_title">Bound For Glory</span> <span class="author_name">Woody Guthrie</span>
+- 2005-08-07	Monk's Hood -- Ellis Peters
+- 2005-08-03	Thank You for Asking: Conversing with Young Adults about the Future Church -- Sara Wenger Shenk
+- 2005-07-23	Harry Potter and the Half-Blood Prince -- J. K. Rowling
+- <span class="date">2005-06-10</span> <span class="book_title">On Writing</span> <span class="author_name">Stephen King</span>
+- <span class="date">2005-06-07</span> <span class="book_title">The Drawing of the Three</span> <span class="author_name">Stephen King</span>
+- <span class="date">2005-06-07</span> <span class="book_title">A Whole New Mind</span> <span class="author_name">Daniel H Pink</span>
+- <span class="date">2005-05-27</span> <span class="book_title">Small is Beautiful</span> <span class="author_name">E F Schumacher</span>
+- <span class="date">2005-05-12</span> <span class="book_title">The Affluent Society</span> <span class="author_name">John Kenneth Galbraith</span>
+- <span class="date">2005-04-26</span> <span class="book_title">The Gunslinger</span> <span class="author_name">Stephen King</span>
+- 2005-04-22	Lincoln at Gettysburg: The Words That Remade America -- Garry Wills
+- 2005-04-15	The Time Traveler's Wife -- Audrey Niffenegger
+- 2005-04-05	"A Long Day's Journey Into Night" -- Eugene O'Neill
+- <span class="date">2005-04-02</span> <span class="book_title">Blink</span> <span class="author_name">Malcolm Gladwell</span>
+- 2005-03-24	Guns, Germs, and Steel -- Jared Diamond
+- 2005-03-11	Angela's Ashes -- Frank McCourt
+- 2005-02-27	Dragon's Egg -- Robert L Forward
+- <span class="date">2005-02-23</span> <span class="book_title">Lies My Teacher Told Me</span> <span class="author_name">James W Loewen</span>
+- <span class="date">2005-02-13</span> <span class="book_title">The Fountainhead</span> <span class="author_name">Ayn Rand</span>
+- <span class="date">2005-02-07</span> <span class="book_title">The Death of Ivan Illych and Other Stories</span> <span class="author_name">Leo Tolstoy</span>
+- <span class="date">2005-01-15</span> <span class="book_title">Orphans of the Sky</span> <span class="author_name">Robert A. Heinlein</span>
+- <span class="date">2005-01-13</span> <span class="book_title">Wyrms</span> <span class="author_name">Orson Scott Card</span>
+- 2005-01-02	"Hamlet" -- William Shakespeare
+- 2005-01-01	Lord Foul's Bane -- Stephen R Donaldson
+
+### 2004 ###
+
+- <span class="date">2004-12-19</span> <span class="book_title">Double Duece</span> <span class="author_name">Robert B. Parker</span>
+- <span class="date">2004-11-08</span> <span class="book_title">A Tale of Two Cities</span> <span class="author_name">Charles Dickens</span>
+- <span class="date">2004-10-28</span> <span class="book_title">Coraline</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2004-09-18</span> <span class="book_title">The Sun Also Rises</span> <span class="author_name">Ernest Hemingway</span>
+- 2004-08-31	"A Midsummer Night's Dream" -- William Shakespeare
+- <span class="date">2004-08-24</span> <span class="book_title">The Divine Invasion</span> <span class="author_name">Philip K Dick</span>
+- <span class="date">2004-08-18</span> <span class="book_title">Zodiac</span> <span class="author_name">Neal Stephenson</span>
+- <span class="date">2004-08-04</span> <span class="book_title">The River Why</span> <span class="author_name">David James Duncan</span>
+- <span class="date">2004-07-23</span> <span class="book_title">I am the Cheese</span> <span class="author_name">Robert Cormier</span>
+- <span class="date">2004-07-20</span> <span class="book_title">The Da Vinci Code</span> <span class="author_name">Dan Brown</span>
+- <span class="date">2004-07-15</span> <span class="book_title">Valis</span> <span class="author_name">Philip K. Dick</span>
+- <span class="date">2004-07-08</span> <span class="book_title">The Count of Monte Cristo</span> <span class="author_name">Alexandre Dumas</span>
+- <span class="date">2004-06-19</span> <span class="book_title">American Gods</span> <span class="author_name">Neil Gaiman</span>
+- <span class="date">2004-06-15</span> <span class="book_title">Metamorphosis</span> <span class="author_name">Franz Kafka</span>
+- <span class="date">2004-06-10</span> <span class="book_title">The World According to Garp</span> <span class="author_name">John Irving</span>
+- <span class="date">2004-05-31</span> <span class="book_title">A Girl Named Zippy</span> <span class="author_name">Haven Kimmel</span>
+- <span class="date">2004-05-08</span> <span class="book_title">Siddhartha</span> <span class="author_name">Hermann Hesse</span>
+- <span class="date">2004-05-03</span> <span class="book_title">The Autobiography of Malcolm X</span> <span class="author_name">Alex Haley</span>
+- <span class="date">2004-04-15</span> <span class="book_title">The Plague</span> <span class="author_name">Albert Camus</span>
+- <span class="date">2004-03-18</span> <span class="book_title">Through the Looking Glass</span> <span class="author_name">Lewis Carrol</span>
+- <span class="date">2004-03-10</span> <span class="book_title">Farewell to Manzanar</span> <span class="author_name">Jeanne Wakatsuki Houston</span>
+- 2004-03-07	Alice's Adventures in Wonderland  -- Lewis Carroll
+- <span class="date">2004-02-04</span> <span class="book_title">Cold Mountain</span> <span class="author_name">Charles Frazier</span>
+
+### 2003 ###
+
+- <span class="date">2003-12-29</span> <span class="book_title">Narrative on the Life of Fredrick Douglass</span> <span class="author_name">Fredrick Douglass</span>
+- <span class="date">2003-12-24</span> <span class="book_title">Plainsong</span> <span class="author_name">Kent Haruf</span>
+- 2003-12-20	"Macbeth" -- William Shakespeare
+- 2003-12-20	Do Androids Dream of Electric Sheep? -- Philip K. Dick
+- <span class="date">2003-12-13</span> <span class="book_title">Hiroshima</span> <span class="author_name">John Hersey</span>
+- 2003-11-01	Uncle Tom's Cabin -- Harriet Beecher Stowe
+- <span class="date">2003-10-12</span> <span class="book_title">The Life of Pi</span> <span class="author_name">Yann Martel</span>
+- <span class="date">2003-09-25</span> <span class="book_title">The Hunchback of Notre Dame</span> <span class="author_name">Victor Hugo</span>
+- <span class="date">2003-09-01</span> <span class="book_title">The Great Gatsby</span> <span class="author_name">F. Scott Fitzgerald</span>
+- <span class="date">2003-08-26</span> <span class="book_title">Invisible Monsters</span> <span class="author_name">Chuck Palahniuk</span>
+- <span class="date">2003-08-05</span> <span class="book_title">Fast Food Nation</span> <span class="author_name">Eric Schlosser</span>
+- <span class="date">2003-07-23</span> <span class="book_title">A Clockwork Orange</span> <span class="author_name">Anthony Burgess</span>
+- 2003-07-12	Busman's Honeymoon -- Dorothy L. Sayers
+- <span class="date">2003-07-01</span> <span class="book_title">Viking Myths And Legends</span> <span class="author_name">K.E. Sullivan</span>
+- <span class="date">2003-06-26</span> <span class="book_title">Harry Potter and the Order of the Phoenix</span> <span class="author_name">J.K. Rowling</span>
+- <span class="date">2003-06-14</span> <span class="book_title">The Picture of Dorian Gray</span> <span class="author_name">Oscar Wilde</span>
+- <span class="date">2003-06-10</span> <span class="book_title">Culture Jam</span> <span class="author_name">Kalle Lasn</span>
+- <span class="date">2003-06-09</span> <span class="book_title">Heart of Darkness</span> <span class="author_name">Joseph Conrad</span>
+- <span class="date">2003-05-31</span> <span class="book_title">The Stand</span> <span class="author_name">Stephen King</span>
+- 2003-05-04	Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values -- Robert M. Pirsig
+- <span class="date">2003-04-30</span> <span class="book_title">Bird by Bird</span> <span class="author_name">Anne Lamott</span>
+- <span class="date">2003-04-04</span> <span class="book_title">The Stranger</span> <span class="author_name">Albert Camus</span>
