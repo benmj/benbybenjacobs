@@ -3,7 +3,8 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(BASEDIR)/output
+#OUTPUTDIR=$(BASEDIR)/output
+OUTPUTDIR=/home/ben/benmj.github.com
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -36,10 +37,8 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html
-	@echo 'Done'
-
-$(OUTPUTDIR)/%.html:
+html: 
+	#$(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
